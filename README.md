@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Xuxiaotuan
-- 🌱 I’m currently learning Java and k8s etc...
-- 📫 jia_yangchen@163.com
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=Xuxiaotuan)](https://github.com/mango-lzp/github-readme-stats)
