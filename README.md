@@ -10,7 +10,7 @@ Big Data Engineer passionate about building scalable data infrastructure with **
 
 🤖 **Currently Exploring**
 - AI Agent applications in data analytics and data engineering
-- LLM-powered data pipelines and automated paper tracking ([Agentic Paper Digest](https://github.com/Xuxiaotuan/agentic_paper_digest))
+- LLM-powered data pipelines and automated paper tracking
 
 🌱 **Learning**
 - Rust systems programming · System architecture design · AI Agent design patterns
