@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Jiawei Xu (Xuxiaotuan) aka: Kavin
+### 👋 Hi, I'm Jiawei Xu (Xuxiaotuan) aka: Kevin
 
 Big Data Engineer passionate about building scalable data infrastructure with **Apache Flink, Spark, Doris, and StarRocks**.
 
