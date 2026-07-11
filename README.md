@@ -17,7 +17,7 @@ Big Data Engineer passionate about building scalable data infrastructure with **
 
 💬 **About Me**
 - Curiosity-driven engineer who loves exploring new tech — from Go to Rust to AI Agents
-- Weekends: photography in Lightroom or reading non-technical books
+- Weekends: reading non-technical books
 
 📝 **Blog**: [xuyinyin.cn](https://xuyinyin.cn)
 
